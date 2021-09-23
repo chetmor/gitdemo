@@ -7,6 +7,6 @@
     <title>Home</title>
 </head>
 <body>
-    <p>COntent for home pages</p>
+    <p>Content for home pages</p>
 </body>
 </html>
